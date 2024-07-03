@@ -1,0 +1,17 @@
+
+The directory contrains the test files you have seen so far in binary format and a short program to help you verufy content of the binary files.
+
+The data files are:
+        voters50.bin
+        voters500.bin
+        voters5000.bin
+        voters50000.bin
+        voters100000.bin
+
+You can use the above to test the work of your program mysort.
+
+Also, you can use the following C porgram to verify the content of the (unreadable through cat etc) content of the binary daa files:
+        Verify
+        Verify.c
+
+--ad@di 03NOV2023
